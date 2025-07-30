@@ -11,6 +11,7 @@ author: Harjot Singh (@cyb3rjy0t)
 date: 2024-08-13
 tags:
     - attack.persistence
+    - attack.t1484
 logsource:
     product: azure
     service: auditlogs
