@@ -12,6 +12,7 @@ tags:
     - attack.t1071.001
     - attack.t1102.001
     - attack.t1102.003
+    - attack.t1105
     - attack.defense-evasion
 logsource:
     category: proxy

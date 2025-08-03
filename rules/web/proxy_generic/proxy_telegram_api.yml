@@ -12,8 +12,10 @@ modified: 2023-05-18
 tags:
     - attack.defense-evasion
     - attack.command-and-control
+    - attack.exfiltration
     - attack.t1071.001
     - attack.t1102.002
+    - qttack.t1567
 logsource:
     category: proxy
 detection:
