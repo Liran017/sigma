@@ -14,6 +14,7 @@ tags:
     - attack.exfiltration
     - attack.t1020
     - attack.t1537
+    - attack.t1213.003
 logsource:
     product: github
     service: audit
