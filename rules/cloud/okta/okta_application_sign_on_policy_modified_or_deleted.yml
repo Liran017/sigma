@@ -10,6 +10,11 @@ date: 2021-09-12
 modified: 2022-10-09
 tags:
     - attack.impact
+    - attack.t1531
+    - attack.credential-access
+    - attack.defense-evasion
+    - attack.persistence
+    - attack.t1556
 logsource:
     product: okta
     service: okta
