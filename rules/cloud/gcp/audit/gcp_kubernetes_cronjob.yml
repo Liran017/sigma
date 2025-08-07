@@ -16,6 +16,7 @@ tags:
     - attack.persistence
     - attack.privilege-escalation
     - attack.execution
+    - attack.t1053.007
 logsource:
     product: gcp
     service: gcp.audit

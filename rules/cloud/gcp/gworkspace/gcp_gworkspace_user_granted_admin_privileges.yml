@@ -10,7 +10,8 @@ date: 2021-08-23
 modified: 2023-10-11
 tags:
     - attack.persistence
-    - attack.t1098
+    - attack.privilege-escalation
+    - attack.t1098.003
 logsource:
     product: gcp
     service: google_workspace.admin
