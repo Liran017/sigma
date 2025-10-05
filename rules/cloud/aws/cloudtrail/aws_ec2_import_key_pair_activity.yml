@@ -11,7 +11,9 @@ tags:
     - attack.initial-access
     - attack.t1078
     - attack.persistence
+    - attack.t1098.004
     - attack.privilege-escalation
+    - attack.t1098.004
 logsource:
     product: aws
     service: cloudtrail

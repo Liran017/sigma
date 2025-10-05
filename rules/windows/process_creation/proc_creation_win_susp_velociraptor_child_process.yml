@@ -7,9 +7,13 @@ references:
 author: Swachchhanda Shrawan Poudel (Nextron Systems)
 date: 2025-08-29
 tags:
+    - attack.execution
     - attack.persistence
     - attack.defense-evasion
+    - attack.command-and-control
+    - attack.t1059.001
     - attack.t1219
+    - attack.t1105
 logsource:
     category: process_creation
     product: windows
